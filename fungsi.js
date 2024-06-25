@@ -12,3 +12,6 @@ console.log(divide(a, b));
 
 const exponent = (a, b) => a ** b;
 console.log(exponent(a, b));
+
+const root = (a, b) => a ** (1 / b);
+console.log(root(a, b));
