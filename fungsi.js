@@ -4,3 +4,5 @@ const substract = (a, b) => a - b;
 console.log(substract(a, b));
 const multiply = (a, b) => a * b;
 console.log(multiply(a, b));
+const divide = (a, b) => a / b;
+console.log(divide(a, b));
